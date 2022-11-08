@@ -2,5 +2,5 @@
 Console.WriteLine("довільний текст");
 Console.WriteLine("довільний текст");
 Console.WriteLine("довільний текст");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("ТЕКСТ");
+Console.WriteLine("ТЕКСТ");
